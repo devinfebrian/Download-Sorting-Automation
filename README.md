@@ -36,7 +36,7 @@ The script organizes files into the following categories:
 ## Usage
 
 1. Clone or download this repository
-2. Run executable file (.exe) that i generate using pyisntaller
+2. Run executable file (.exe) that i generate using pyinstaller
 
 ## How It Works
 
